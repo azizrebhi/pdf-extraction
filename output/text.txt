@@ -1,0 +1,21 @@
+Sample PDF with Text and Tables
+Introduction
+This is a sample PDF document generated for testing PDF text and table extraction. It includes a paragraph
+of text, followed by a simple table containing sample data.
+Employee Table
+ID
+Name
+Department
+Salary
+1
+Alice
+Engineering
+$1000
+2
+Bob
+Marketing
+$950
+3
+Charlie
+HR
+$900

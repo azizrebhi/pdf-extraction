@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+pdfplumber
+pytesseract
+opencv-python-headless
+pdf2image
+pandas
